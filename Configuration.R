@@ -41,7 +41,7 @@ TOT_PERIODS=K_FULL
 TOT_CONSIDERED_PERIODS<-4
 
 
-# paths to use
+# Paths to use
 PATH          <-  "~/Github/Replication_Morphing_HMM/" 
 PATH_RAW       <-  paste("1. Raw Data",sep="")
 PATH_HMM_EST   <-  paste("2. HMM Estimates", sep="")

@@ -138,7 +138,7 @@ estimate_future_period_qs<-function(tr_matrix, qs)
   }
   return(qs_expected)
 }
-#click=1
+
 ############### Within-person  DP #################
 # version control
 #  - Gui added the m- and s- specific bouncing probability instead of the discount rate
