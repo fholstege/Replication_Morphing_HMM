@@ -1,5 +1,10 @@
 # Replication_Morphing_HMM
 
+
+If you are interested specifically in the detailed documentation and code needed to produce the tables and figures in the paper 'Morphing for Consumers Dynamics: Bandits meet HMM' by Gui Liberali and Alina Ferecatu (2022), please refer to the replication files in this link: https://pubsonline.informs.org/doi/suppl/10.1287/mksc.2021.1346.
+
+
+
 This repository contains the replication code for the paper 'Morphing for Consumers Dynamics: Bandits meet HMM' by Gui Liberali and Alina Ferecatu from the Rotterdam School of Management. 
 
 The repository is structured as follows:
